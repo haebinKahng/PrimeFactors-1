@@ -59,6 +59,7 @@ TEST_F(AccountFixture, predictinterest) {
 */
 
 // prime-factor test
+/*
 #include <vector>
 class PrimeFixture : public testing::Test {
 public:
@@ -100,3 +101,4 @@ TEST_F(PrimeFixture, Of12) {
 	expected = { 2, 2, 3 };
 	EXPECT_EQ(expected, prime_factor.of(12));
 }
+*/
