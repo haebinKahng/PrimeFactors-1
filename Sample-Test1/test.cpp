@@ -61,3 +61,6 @@ TEST_F(AccountFixture, predictinterest) {
 */
 
 // prime-factor test
+TEST(PrimeFactors, PrimeTest) {
+	EXPECT_EQ(1, 1);
+}
