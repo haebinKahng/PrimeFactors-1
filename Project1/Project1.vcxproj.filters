@@ -24,5 +24,8 @@
     <ClCompile Include="Account.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="prime-factors.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
